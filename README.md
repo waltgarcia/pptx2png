@@ -20,6 +20,6 @@ Extrae todas las imágenes de presentaciones PowerPoint (.pptx) y guárdalas com
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/powerpoint-image-extractor.git
+git clone https://github.com/waltgarcia/powerpoint-image-extractor.git
 cd powerpoint-image-extractor
 pip install -r requirements.txt
