@@ -2,7 +2,7 @@
 
 Extrae todas las imágenes de presentaciones PowerPoint (.pptx) y guárdalas como archivos PNG numerados, conservando la máxima calidad.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/powerpoint-image-extractor/blob/main/pptx_image_extractor.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/waltgarcia/powerpoint-image-extractor/blob/main/pptx_image_extractor.ipynb)
 
 ## Características principales
 
